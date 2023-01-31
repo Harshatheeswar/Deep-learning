@@ -4,4 +4,4 @@ The purpose of the project is to test the ability of Generative Adversial Networ
 
 Data
 
-FashionMNIST is used as a training and test data. The notebook contains more informations about it. 
+FashionMNIST is used as a training and test data. one can load it from directly keras.fashionmnist.
